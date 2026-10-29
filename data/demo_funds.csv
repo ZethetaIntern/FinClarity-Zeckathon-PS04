@@ -1,0 +1,8 @@
+scheme,category,expense_ratio,aum_cr,tracking_error,manager_tenure_years,illustrative_5y_return,source,is_demo
+DEMO Broad Market Index A,Index - Large Cap,0.20,12000,0.15,4,10.2,synthetic_demo_data,TRUE
+DEMO Broad Market Index B,Index - Large Cap,0.18,8500,0.21,6,9.8,synthetic_demo_data,TRUE
+DEMO Flexi Equity C,Flexi Cap,0.65,4200,0.00,5,12.1,synthetic_demo_data,TRUE
+DEMO Small Cap D,Small Cap,0.85,1800,0.00,3,15.4,synthetic_demo_data,TRUE
+DEMO Short Duration E,Debt - Short Duration,0.28,6200,0.00,7,6.3,synthetic_demo_data,TRUE
+DEMO Liquid Fund F,Debt - Liquid,0.16,9000,0.00,4,5.8,synthetic_demo_data,TRUE
+DEMO Hybrid Balanced G,Hybrid,0.55,2300,0.00,6,8.7,synthetic_demo_data,TRUE
