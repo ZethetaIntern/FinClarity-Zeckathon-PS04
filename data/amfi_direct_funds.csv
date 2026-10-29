@@ -1,0 +1,15 @@
+scheme,category,plan_type,expense_ratio,aum_cr,tracking_error,rolling_return_3y,rolling_return_5y,max_drawdown,manager_tenure_years,benchmark,riskometer,source,is_direct_plan
+UTI Nifty 50 Index Fund - Direct Plan - Growth,Large Cap - Index,Direct Plan,0.18,17850,0.04,14.8,15.2,-22.4,5.5,NIFTY 50 TRI,Very High,AMFI Direct Universe / AMC Factsheet,True
+HDFC Index Fund - Nifty 50 Plan - Direct - Growth,Large Cap - Index,Direct Plan,0.2,14200,0.05,14.7,15.1,-22.6,6.2,NIFTY 50 TRI,Very High,AMFI Direct Universe / AMC Factsheet,True
+Parag Parikh Flexi Cap Fund - Direct Plan - Growth,Flexi Cap,Direct Plan,0.63,68500,0.0,18.2,19.8,-18.7,11.0,NIFTY 500 TRI,Very High,AMFI Direct Universe / AMC Factsheet,True
+HDFC Flexi Cap Fund - Direct Plan - Growth,Flexi Cap,Direct Plan,0.78,54200,0.0,21.4,18.9,-24.1,4.0,NIFTY 500 TRI,Very High,AMFI Direct Universe / AMC Factsheet,True
+HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth,Mid Cap,Direct Plan,0.74,65400,0.0,24.6,22.3,-26.8,10.5,NIFTY Midcap 150 TRI,Very High,AMFI Direct Universe / AMC Factsheet,True
+Motilal Oswal Midcap Fund - Direct Plan - Growth,Mid Cap,Direct Plan,0.68,13800,0.0,26.2,23.5,-25.2,4.8,NIFTY Midcap 150 TRI,Very High,AMFI Direct Universe / AMC Factsheet,True
+Nippon India Small Cap Fund - Direct Plan - Growth,Small Cap,Direct Plan,0.69,52300,0.0,25.8,24.9,-31.5,7.2,NIFTY Smallcap 250 TRI,Very High,AMFI Direct Universe / AMC Factsheet,True
+Tata Small Cap Fund - Direct Plan - Growth,Small Cap,Direct Plan,0.72,8600,0.0,24.1,22.8,-29.2,5.1,NIFTY Smallcap 250 TRI,Very High,AMFI Direct Universe / AMC Factsheet,True
+ICICI Prudential Corporate Bond Fund - Direct Plan - Growth,Debt - Corporate Bond,Direct Plan,0.31,27500,0.0,7.4,7.6,-3.8,8.0,CRISIL Corporate Bond Index,Moderate,AMFI Direct Universe / AMC Factsheet,True
+HDFC Short Term Debt Fund - Direct Plan - Growth,Debt - Short Duration,Direct Plan,0.33,16800,0.0,7.1,7.3,-2.9,9.2,CRISIL Short Duration Debt Index,Moderate,AMFI Direct Universe / AMC Factsheet,True
+ICICI Prudential Liquid Fund - Direct Plan - Growth,Debt - Liquid,Direct Plan,0.15,49500,0.0,6.5,6.1,-0.2,6.5,CRISIL Liquid Debt Index,Low to Moderate,AMFI Direct Universe / AMC Factsheet,True
+HDFC Liquid Fund - Direct Plan - Growth,Debt - Liquid,Direct Plan,0.17,58000,0.0,6.4,6.0,-0.2,8.3,CRISIL Liquid Debt Index,Low to Moderate,AMFI Direct Universe / AMC Factsheet,True
+ICICI Prudential Balanced Advantage Fund - Direct Plan - Growth,Hybrid - Dynamic Asset Allocation,Direct Plan,0.72,58900,0.0,12.8,12.4,-14.2,12.0,CRISIL Hybrid 50+50 Moderate Index,High,AMFI Direct Universe / AMC Factsheet,True
+Nippon India ETF Gold BeES / Gold Fund - Direct Plan,Commodity - Gold,Direct Plan,0.12,11400,0.12,13.9,12.7,-11.5,5.0,Domestic Price of Physical Gold,High,AMFI Direct Universe / AMC Factsheet,True
